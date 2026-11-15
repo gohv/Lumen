@@ -1,0 +1,5 @@
+package-as: Lumen
+ignore:
+  - tests
+  - tools
+  - .github

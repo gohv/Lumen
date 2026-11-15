@@ -1,0 +1,24 @@
+## Interface: 16001
+## Title: |cffb48cffLumen|r
+## Notes: Modern animated action bars: round glass buttons on curved bars, color-shifting cooldown rings, ready blooms, proc comets, a cooldown pulse, a liquid XP bar and a living avatar.
+## Author: gohv
+## Version: 0.5.0
+## IconTexture: Interface\AddOns\Lumen\Media\icon
+## Category: Action Bars
+## SavedVariables: LumenDB
+## X-License: MIT
+## X-Website: https://github.com/gohv/Lumen
+
+Util.lua
+Config.lua
+Button.lua
+Mover.lua
+Bars.lua
+Blizzard.lua
+Extras.lua
+Avatar.lua
+Target.lua
+CastArc.lua
+Auras.lua
+Options.lua
+Core.lua
